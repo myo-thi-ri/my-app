@@ -8,11 +8,11 @@ function App() {
       <footer>
         <p>
           This project was coded by{" "}
-          <a href="www.google.com" target="_blank">
+          <a href="/" target="_blank">
             MaNaw Phyu
           </a>{" "}
           and is{" "}
-          <a href="www.github.com" target="_blank">
+          <a href="https://github.com/myo-thi-ri/my-app" target="_blank">
             open-sourced on GitHub.
           </a>{" "}
         </p>
